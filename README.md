@@ -1,6 +1,6 @@
 ### 👋 Welcome
 
-I’m **Ira**, a 🎓 PhD student in **Computer Science** at Columbia University, advised by Prof. Baishakhi Ray and Prof. Gail Kaiser. I'm broadly interested in AI applications for code. 
+I’m *Ira*, a PhD student in Computer Science at Columbia University 🎓. I am lucky to be advised by Professor Baishakhi Ray and Professor Gail Kaiser.
 
 - 🛡️ I've worked on AI for **security applications**, such as **vulnerability detection**.  
 - 🐞 I've also explored **code reasoning for code-related tasks** -- specifically, investigating the techniques that underlie the ability of large language models to perform well on tasks like bug repair. 
