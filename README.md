@@ -14,6 +14,8 @@ I am a PhD student in Computer Science at Columbia University 🎓. I am lucky t
 
 ---
 -->
+### 📚 Google Scholar
+- View [recent work](https://scholar.google.com/citations?user=XwdIwD8AAAAJ)
 
 📫 **Let’s Connect!**  
 - 📨 Reach me at: *iceka@cs.columbia.edu*  
