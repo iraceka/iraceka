@@ -1,7 +1,7 @@
 <h1 align="center">Ira Ceka</h1>
 
 <p align="center">
-  <strong> Researcher in Computer Science</strong><br>
+  <strong> CS Researcher </strong><br>
   AI for Software Engineering · Code Reasoning · LLM Agents · Security & Trustworthiness
 </p>
 
