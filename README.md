@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.cs.columbia.edu/~iceka/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Website">
+  </a>
   <a href="https://scholar.google.com/citations?user=XwdIwD8AAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
