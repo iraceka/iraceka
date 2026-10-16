@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/iraceka/">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://x.com/ira_ceka">
+    <img src="https://img.shields.io/badge/X-%40ira__ceka-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
   <a href="mailto:iceka@cs.columbia.edu">
     <img src="https://img.shields.io/badge/Email-iceka%40cs.columbia.edu-EC4899?style=flat-square&logo=maildotru&logoColor=white" alt="Email">
   </a>
